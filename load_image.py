@@ -1,3 +1,6 @@
+"""
+绘制图片
+"""
 import pygame
 
 pygame.init()
