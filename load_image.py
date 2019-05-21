@@ -13,7 +13,6 @@ bg = pygame.image.load('./images/background.png')
 # 绘制图像
 screen.blit(bg, (0, 0))
 plane = pygame.image.load('./images/me1.png')
-position = plane.get_rect()
 screen.blit(plane, (180, 500))
 
 # 更新窗口
